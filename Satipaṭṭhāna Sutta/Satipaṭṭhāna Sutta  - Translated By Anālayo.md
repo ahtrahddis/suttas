@@ -171,4 +171,4 @@ This e-book was created by [mahasivipassana.com](https://mahasivipassana.com) us
 
 ## Version
 
-V 1.0 - 2019-08-05
+V 1.1 - 2020-01-03
