@@ -57,7 +57,7 @@ Thus have I heard. On one occasion the Blessed One was living in the Kuru countr
 
 ## [CORPSE IN DECAY]
 
-“Again, monks, as though he were to see a corpse thrown aside in a charnel ground—one, two, or three days dead, bloated, livid, and oozing matter . . . being devoured by crows, hawks, vultures, dogs, jackals, or various kinds of worms . . . a skeleton with flesh and blood, held together with sinews . . . a fleshless skeleton smeared with blood, held together with sinews . . . a skeleton without flesh and blood, held together with sinews . . . disconnected bones scattered in all directions . . . bones bleached white, the color of shells . . . bones heaped up, more than a year old . . . bones rotten and crumbling to dust—he compares this same body with it thus: ‘This body too is of the same nature, it will be like that, it is not exempt from that fate.’2
+“Again, monks, as though he were to see a corpse thrown aside in a charnel ground—one, two, or three days dead, bloated, livid, and oozing matter . . . being devoured by crows, hawks, vultures, dogs, jackals, or various kinds of worms . . . a skeleton with flesh and blood, held together with sinews . . . a fleshless skeleton smeared with blood, held together with sinews . . . a skeleton without flesh and blood, held together with sinews . . . disconnected bones scattered in all directions . . . bones bleached white, the color of shells . . . bones heaped up, more than a year old . . . bones rotten and crumbling to dust—he compares this same body with it thus: ‘This body too is of the same nature, it will be like that, it is not exempt from that fate.’
 
 ## [REFRAIN]
 
@@ -173,4 +173,4 @@ This e-book was created by [mahasivipassana.com](https://mahasivipassana.com) us
 
 ## Version
 
-V 1.2 - 2020-01-13
+V 1.3 - 2020-01-13
