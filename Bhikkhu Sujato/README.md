@@ -1,4 +1,4 @@
-These translations are work by **Bhikkhu Sujato** avialable for download on the following link:
+These translations are work by **Bhikkhu Sujato** available for download on the following link:
 
 https://suttacentral.net/downloads
 
