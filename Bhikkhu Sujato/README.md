@@ -1,7 +1,11 @@
-These translations are work by **Bhikkhu Sujato** available for download on the following link:
+These translations are a work by **Bhikkhu Sujato**, available for download on the following link:
 
-https://suttacentral.net/downloads
+[editions/en/sujato at main · suttacentral/editions · GitHub]([editions/en/sujato at main · suttacentral/editions · GitHub](https://github.com/suttacentral/editions/tree/main/en/sujato))
 
-I just modified the text alignment from *left* to *justify*, and then converted from epub to azw3 and mobi, using [Calibre](https://calibre-ebook.com/).
 
-In addition, I applied soft hyphenation on azw3 files using [Hyphenate This!](https://www.mobileread.com/forums/showthread.php?t=208534) Calibre plugin.
+
+The main differences with the stock files are:
+
+-  text alignment set to *justify*, and then converted from epub to mobi and azw3, using [Calibre](https://calibre-ebook.com/).
+
+- the azw3 files offer additional soft-hyphenation, ( with the help of [Hyphenate This!](https://www.mobileread.com/forums/showthread.php?t=208534) Calibre plugin.
