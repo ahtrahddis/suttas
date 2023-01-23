@@ -8,7 +8,7 @@ The main differences with the stock files are:
 
 - the azw3 files offer additional soft-hyphenation, ( with the help of [Hyphenate This!](https://www.mobileread.com/forums/showthread.php?t=208534) Calibre plugin.
 
-## Downloads (2022-12-27 edition):
+## Downloads (2023-01-23 edition):
 
 - Linked Discourses: [epub](https://github.com/ahtrahddis/suttas/raw/master/Bhikkhu%20Sujato/Linked%20discourses/Linked%20Discourses%20-%20Bhikkhu%20Sujato.epub), [mobi](https://github.com/ahtrahddis/suttas/raw/master/Bhikkhu%20Sujato/Linked%20discourses/Linked%20Discourses%20-%20Bhikkhu%20Sujato.mobi), [azw3](https://github.com/ahtrahddis/suttas/raw/master/Bhikkhu%20Sujato/Linked%20discourses/Linked%20Discourses%20-%20Bhikkhu%20Sujato.azw3)
 - Long Discourses: [epub](https://github.com/ahtrahddis/suttas/raw/master/Bhikkhu%20Sujato/Long%20Discourses/Long%20Discourses%20-%20Bhikkhu%20Sujato.epup), [mobi](https://github.com/ahtrahddis/suttas/raw/master/Bhikkhu%20Sujato/Long%20Discourses/Long%20Discourses%20-%20Bhikkhu%20Sujato.mobi), [azw3](https://github.com/ahtrahddis/suttas/raw/master/Bhikkhu%20Sujato/Long%20Discourses/Long%20Discourses%20-%20Bhikkhu%20Sujato.azw3)
